@@ -70,15 +70,12 @@ body{
 .third-div-width{
     width: 40%;
 }
-/*.third-div-width img{
-    width: 50%;
-    padding-left: 70px;
-}*/
 .third-div-width img{
     width: 400px;
     height: 350px;
+}
+#third-page-pic-div{
     margin-left: 90px;
-
 }
 
 /*All content of fourth page */
@@ -89,7 +86,7 @@ body{
     background-image: url(images/shapes/shape-1.png);
     background-repeat: no-repeat;
     background-size: 150px 150px;
-    background-position: 90% 125%;
+    background-position: 85% 95%;
 }
 .fourth-div-width{
     width: 100%;
@@ -97,6 +94,9 @@ body{
 .fourth-div-width img{
     width: 350px;
     height: 350px;
+
+}
+#fourth-page-pic-div{
     margin-left: 80px;
 }
 /*All content of optional page*/
