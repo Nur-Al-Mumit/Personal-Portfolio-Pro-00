@@ -1,0 +1,46 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+/*All Content for first page*/
+.first_page{
+    display: flex;
+}
+.first-div-width{
+    width: 40%;
+    margin-left: 5%;    
+    padding: 30px;
+}
+.first-heading-design{
+    font-size: 60px;
+    border-left: 5px solid;
+    padding-left: 20px;
+    border-image: linear-gradient(orange,hotpink);
+    border-image-slice: 1;
+}
+.first-heading-design span{
+    color: orangered;
+}
+.first-div-width img{
+    width: 80%;
+}
+/*All content for second page*/
+.second_page{
+    margin-top: 100px;
+}
+.second-heading-design{
+    text-align: center;
+    font-size: 50px;
+}
+.second-heading-design span{
+    color: orangered;
+}
+/*All buttons*/
+.first-link-button{
+    text-decoration: none;
+    color: white;
+    background-color: salmon;
+    border-radius: 5px;
+    padding: 10px 40px;
+}
