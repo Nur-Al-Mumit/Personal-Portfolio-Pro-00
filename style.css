@@ -152,3 +152,10 @@ body{
     border-radius: 5px;
     padding: 10px 40px;
 }
+.last-link-button{
+    text-decoration: none;
+    color: white;
+    background-color: salmon;
+    border-radius: 5px;
+    padding: 10px 40px;
+}
