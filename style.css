@@ -99,7 +99,36 @@ body{
     height: 350px;
     margin-left: 80px;
 }
-
+/*All content of optional page*/
+.optional_page{
+    margin: 90px;
+}
+.optional_page_flex{
+    display: flex;
+}
+.last-div-width{
+    width: 50%;
+}
+.last-div-width img{
+    width: 500px;
+}
+.last-div-width span{
+    color: orangered;
+}
+.last-heading{
+    font-size: 40px;
+    text-align: center;
+    text-shadow: 5px 5px 10px lightgray;
+}
+.last-heading span{
+    color: orangered;
+}
+#optional-page-div{
+    padding: 30px;
+    box-shadow: 5px 5px 20px gray;
+    border-radius: 10px;
+    margin: 20px;
+}
 
 /*All buttons*/
 .first-link-button{
