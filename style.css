@@ -28,6 +28,7 @@ body{
 /*All content for second page*/
 .second_page{
     margin-top: 100px;
+    margin-left: 50px;
 }
 .second-heading-design{
     text-align: center;
@@ -39,7 +40,7 @@ body{
 .for-flex-second-page{
     display: flex;
 }
-.second_div-width{
+.second-div-width{
     width: 30%;
     margin: 2%;
     border-radius: 30px;
@@ -57,8 +58,36 @@ body{
 #second-page-third-div{
     background-color: #E6F3FE;
 }
+/*All content of third page */
+.third_page{
+    display: flex;
+    margin-top: 50px;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: 0% 50%;
+    background-size: 250px 250px;
+}
+.third-div-width{
+    width: 35%;
+}
+/*.third-div-width img{
+    width: 50%;
+    padding-left: 70px;
+}*/
+.third-div-width img{
+    width: 350px;
+    height: 350px;
+    padding-left: 70px;
+}
 /*All buttons*/
 .first-link-button{
+    text-decoration: none;
+    color: white;
+    background-color: salmon;
+    border-radius: 5px;
+    padding: 10px 40px;
+}
+.second-link-button{
     text-decoration: none;
     color: white;
     background-color: salmon;
