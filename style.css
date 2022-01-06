@@ -36,6 +36,28 @@ body{
 .second-heading-design span{
     color: orangered;
 }
+.for-flex-second-page{
+    display: flex;
+}
+.second_div-width{
+    width: 30%;
+    margin: 2%;
+    border-radius: 30px;
+    padding: 20px;
+    box-shadow: 5px 5px 20px lightslategrey;
+}
+.second_div-width img{
+    width: 50%;
+}
+#second-page-first-div{
+    background-color: #F5EAFA;
+}
+#second-page-second-div{
+    background-color: #E7FEEB;
+}
+#second-page-third-div{
+    background-color: #E6F3FE;
+}
 /*All buttons*/
 .first-link-button{
     text-decoration: none;
